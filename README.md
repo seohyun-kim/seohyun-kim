@@ -4,6 +4,7 @@
 
 
  ## ❤️‍🔥 Recent Interests
+ - Embedded System
  - Edge Machine Learning
  - System Software
  

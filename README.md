@@ -1,9 +1,20 @@
 <!-- ### Hi there 👋
  -->
+
+
+
+
+ ## ❤️‍🔥 Recent Interests
+ - Edge Machine Learning
+ - System Software
+ 
+ <br/>  
+ <br/>  
+
  
  <div align="center">  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-kim&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyun-kim&count_private=true&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyun-kim&layout=compact&theme=swift)
 
  <br/>  
@@ -12,7 +23,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun-kim&count_bg=%23E3BEC6&title_bg=%237C99AC&icon=github.svg&icon_color=%23FFFFFF&title=welcome&edge_flat=true)](https://hits.seeyoufarm.com)
  
 ## 🛠️ Tech Stacks
-
 
  
  ### 💻 Languages

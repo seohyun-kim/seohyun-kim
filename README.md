@@ -6,7 +6,7 @@
  ## ❤️‍🔥 Recent Interests
  - Embedded System
  - Edge Machine Learning
- - System for 
+ - System for AI
  
  <br/>  
  <br/>  
